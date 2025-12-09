@@ -247,6 +247,11 @@ footer .social-link:hover {
 
   .content {
     text-align: center;
+    justify-content: center;
+  }
+
+  .content li {
+    text-align: left;
   }
 
   .about-section-image {
